@@ -19,16 +19,19 @@
 
 ## 💼 Recent Projects
 
-### 🏥 Doctor Appointments Platform
-- Migrated monolith to microservices
-- Dockerized all services and deployed on Kubernetes
-- CI/CD pipeline using GitHub Actions
-- Configured Ingress, resource limits, health probes
+### ☁️ 3-Tier Architecture on AWS with Terraform  
+Provisioned a secure and scalable 3-tier architecture (Web, App, DB) on AWS using modular Terraform.  
+- Created custom VPC, subnets, security groups  
+- Deployed EC2 instances for frontend/backend, RDS for data layer  
+- Managed Terraform state in S3 with remote locking  
+🔗 [View Project](https://github.com/usmans58/terraform-3-tier-infrastructure)
 
-### ♟️ Chess AI Console GUI
-- Built a console-based chess game using `pygame`
-- Implemented Minimax-based AI opponent
-- Clean GUI and undo-move functionality
+### ☸️ EKS Cluster Provisioning with Terraform  
+Provisioned a production-ready EKS cluster using Terraform modules.  
+- Setup VPC, public/private subnets, IAM roles, managed node groups  
+- Enabled autoscaling and RBAC-based access with `kubectl`  
+- S3-based state management for team collaboration  
+🔗 [View Project](https://github.com/usmans58/eks-observability-terraform)
 
 ---
 
