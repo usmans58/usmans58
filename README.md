@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Usman Siddiqui
 
-<!--
-**usmans58/usmans58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 DevOps & Cloud Engineer | Terraform & Kubernetes Enthusiast  
+🚀 Passionate about Infrastructure as Code, Automation, and Cloud-Native Development  
+🌍 [LinkedIn](https://www.linkedin.com/in/usman58/) | [GitHub](https://github.com/usmans58)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+- **Cloud**: AWS, Azure  
+- **Infra as Code**: Terraform  
+- **Containers & Orchestration**: Docker, Kubernetes  
+- **CI/CD**: GitHub Actions, Jenkins  
+- **Languages**: Python, Bash  
+- **Monitoring**: Prometheus, Grafana  
+
+---
+
+## 💼 Recent Projects
+
+### 🏥 Doctor Appointments Platform
+- Migrated monolith to microservices
+- Dockerized all services and deployed on Kubernetes
+- CI/CD pipeline using GitHub Actions
+- Configured Ingress, resource limits, health probes
+
+### ♟️ Chess AI Console GUI
+- Built a console-based chess game using `pygame`
+- Implemented Minimax-based AI opponent
+- Clean GUI and undo-move functionality
+
+---
+
+## 📈 GitHub Stats
+
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmans58&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmans58&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=usmans58&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📚 Currently Learning
+
+- Helm & GitOps
+- Advanced Terraform modules
+- Chaos Engineering with Litmus
+- Cloud Cost Optimization
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: ansariusman.dev@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/usman58/)  
+- 🌐 [GitHub Profile](https://github.com/usmans58)
+
+---
+
+> *"Automate what you can, secure what you must, and monitor everything."*  
