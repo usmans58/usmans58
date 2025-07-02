@@ -7,6 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,bash,python,githubactions,git)](https://skillicons.dev)
 
 - **Cloud**: AWS, Azure  
 - **Infra as Code**: Terraform  
