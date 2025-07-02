@@ -44,14 +44,14 @@
 
 - Helm & GitOps
 - Advanced Terraform modules
-- Chaos Engineering with Litmus
+- Kubernetes Administrator
 - Cloud Cost Optimization
 
 ---
 
 ## 🤝 Let's Connect
 
-- 📫 Email: ansariusman.dev@gmail.com  
+- 📫 Email: usmansiddiqui51@gmail.com  
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/usman58/)  
 - 🌐 [GitHub Profile](https://github.com/usmans58)
 
