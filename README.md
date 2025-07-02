@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Usman Siddiqui
 
-🎯 DevOps & Cloud Engineer | Terraform & Kubernetes Enthusiast  
-🚀 Passionate about Infrastructure as Code, Automation, and Cloud-Native Development  
+🎯 DevOps & Cloud Engineer | **Terraform Certified** | Kubernetes Enthusiast  
+🚀 Automating infrastructure, enabling scalable deployments, and mastering cloud-native ecosystems  
 🌍 [LinkedIn](https://www.linkedin.com/in/usman58/) | [GitHub](https://github.com/usmans58)
 
 ---
