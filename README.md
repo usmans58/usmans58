@@ -42,6 +42,7 @@ Provisioned a production-ready EKS cluster using Terraform modules.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmans58&layout=compact&theme=tokyonight)
 ![GitHub Metrics](https://github-metrics.liard.uk/api?username=usmans58&base.community=true&base.activity=true&base.repositories=true&base.metadata=true&config.timezone=Asia%2FKarachi)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=usmans58&theme=tokyo-night)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmans58&theme=github_dark)
 
 
 ---
