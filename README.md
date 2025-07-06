@@ -47,7 +47,6 @@ Provisioned a production-ready EKS cluster using Terraform modules.
 ## 📚 Currently Learning
 
 - Helm & GitOps
-- Advanced Terraform modules
 - Kubernetes Administrator
 - Cloud Cost Optimization
 
