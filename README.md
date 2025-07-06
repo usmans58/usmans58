@@ -2,7 +2,7 @@
 
 🎯 DevOps & Cloud Engineer | **Terraform Certified** | Kubernetes Enthusiast  
 🚀 Automating infrastructure, enabling scalable deployments, and mastering cloud-native ecosystems  
-🌍 [LinkedIn](https://www.linkedin.com/in/usman58/) | [GitHub](https://github.com/usmans58)
+🌍 [LinkedIn](https://www.linkedin.com/in/usman58/) | [GitHub](https://github.com/usmans58)  📫 Email: usmansiddiqui51@gmail.com  
 
 ---
 
@@ -40,23 +40,6 @@ Provisioned a production-ready EKS cluster using Terraform modules.
 
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmans58&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usmans58&layout=compact&theme=tokyonight)
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=usmans58&theme=tokyo-night)
-
----
-
-## 📚 Currently Learning
-
-- Helm & GitOps
-- Kubernetes Administrator
-- Cloud Cost Optimization
-
----
-
-## 🤝 Let's Connect
-
-- 📫 Email: usmansiddiqui51@gmail.com  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/usman58/)  
-- 🌐 [GitHub Profile](https://github.com/usmans58)
 
 ---
 
