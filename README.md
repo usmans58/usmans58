@@ -34,6 +34,21 @@ Provisioned a production-ready EKS cluster using Terraform modules.
 - S3-based state management for team collaboration  
 🔗 [View Project](https://github.com/usmans58/eks-observability-terraform)
 
+### ☸️ Microservices Voting App on Kubernetes  
+Deployed a full-stack microservices-based voting app on Kubernetes using Minikube.  
+- Re-implemented [`dockersamples/example-voting-app`](https://github.com/dockersamples/example-voting-app) with custom Kubernetes manifests  
+- Configured **Deployments**, **Services** (`NodePort`, `ClusterIP`), and **Secrets** for all components  
+- Integrated multiple technologies:  
+  - 🗳️ Python/Flask frontend for voting  
+  - 💾 Redis for queuing votes  
+  - ⚙️ .NET Core worker to process and store votes  
+  - 🐘 PostgreSQL for persistent storage  
+  - 📊 Node.js + Socket.IO for real-time results display  
+- Used `kubectl` to monitor pods, view logs, debug networking issues, and validate service discovery  
+- Deployed and tested locally using **Minikube**  
+
+🔗 [View Project](https://github.com/usmans58/voting-app-k8s-deployment)
+
 ---
 
 ## 📈 GitHub Stats
